@@ -1,15 +1,15 @@
-layout_spectrum: 0.6932331649586558
-typography_spectrum: 0.9808780141174793
+layout_spectrum: 0.9853814768139273
+typography_spectrum: 0.2753367612604052
 color:
-  brandStrength: 0.19529223698191345
-  lightness: 0.2039980380795896
-  saturation: 0.07909200410358608
-  rhythmicContrast: 0.9821782687213272
+  brandStrength: 0.46359943877905607
+  lightness: 0.649056414840743
+  saturation: 0.4603022651281208
+  rhythmicContrast: 0.3268131264485419
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
 name: gerardable
-title: Just me
+title: Gerardable
