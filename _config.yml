@@ -1,16 +1,16 @@
-typography_spectrum: 0.2753367612604052
+typography_spectrum: 0.3675948774907738
 color:
-  brandStrength: 0.46359943877905607
-  lightness: 0.649056414840743
-  saturation: 0.4603022651281208
-  rhythmicContrast: 0.3268131264485419
+  brandStrength: 0.6738052417058498
+  lightness: 0.6719931003171951
+  saturation: 0.01743737910874188
+  rhythmicContrast: 0.3673128958325833
   brandColors:
-    - '#332532'
-    - '#644D52'
-    - '#F77A52'
-    - '#FF974F'
-    - '#A49A87'
-layout_spectrum: 0.9853814768139273
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+layout_spectrum: 0.47311832127161324
 name: gerardable
 title: Gerardable
 description: __init__
