@@ -1,4 +1,3 @@
-layout_spectrum: 0.9853814768139273
 typography_spectrum: 0.2753367612604052
 color:
   brandStrength: 0.46359943877905607
@@ -11,5 +10,7 @@ color:
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
+layout_spectrum: 0.9853814768139273
 name: gerardable
 title: Gerardable
+description: __init__
